@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shan-10
 - 👀 I’m interested in learning web development from the scratch.
-- 🌱 I’m currently learning Python,CSS, HTML and JS
+- 🌱 I’m currently learning CSS, HTML and JS
 - 💞️ I’m looking to collaborate on learning together
 - 📫 How to reach me ...
 
