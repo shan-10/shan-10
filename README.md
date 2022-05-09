@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @shan-10
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently a web developer and a Certified Scrum Master
+- 👋 Hi, I’m Shahnawaj, I am currently based in Valencia, Spain.
+
+
+- 🌱 I’m currently a Frontend web developer and a Certified Scrum Master.
 - 💞️ I’m looking to collaborate on Working & learning together.
-- 📫 How to reach me ... click on my Resume repo and it will provide you different options to connect.
+
+My Interest in programming continues to grow day by day. With an inquiring personality, I am always looking to develop my skills and challenge myself with something new.
+
 
 <!---
 shan-10/shan-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
